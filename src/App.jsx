@@ -22,6 +22,10 @@ function App() {
     }))
   }
 
+  const test = () => {
+    
+  } 
+
   const handleSubmit = e => {
     e.preventDefault()
     const data = generateVCard()
