@@ -96,7 +96,7 @@ END:VCARD
               type="submit"
               className="bg-emerald-400 rounded-md p-2 text-slate-200"
             >
-              Generate QR
+              Generar QR
             </button>
           </form>
         </section>
